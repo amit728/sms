@@ -1,0 +1,27 @@
+.pt100{
+	padding-top: 100px;
+}
+.pt50{
+	padding-top: 100px;
+}
+.pb30{
+	padding-bottom: 30px;
+}
+.form{
+	max-width: 500px;
+	padding: 30px;
+	border-radius: 5px;
+	border:1px solid #eee;
+	margin: 0 auto;
+	box-shadow: 0px 0px 2px #aaa;
+}
+footer{
+	padding-top:50px;
+	text-align: center;
+}
+.table img{
+	width: 50px;
+}
+.bg-default{
+	background: #ddd;
+}
